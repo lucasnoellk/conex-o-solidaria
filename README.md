@@ -1,6 +1,7 @@
 # Conexão Solidária — Plataforma demonstrativa para ONGs
 
-Projeto acadêmico front-end criado com **HTML5, CSS3 e JavaScript puro**, com foco nos requisitos de design system, layout responsivo, acessibilidade e componentes interativos da Entrega II.
+## Criador
+Lucas Noel Gomes Batista - Engenharia de Software 
 
 ## Como executar
 
